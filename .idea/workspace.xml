@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc935b32-b387-4293-b1f7-ac6b73c34ca2" name="Default Changelist" comment="" />
+    <list default="true" id="bc935b32-b387-4293-b1f7-ac6b73c34ca2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bloxorz_A_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bloxorz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bloxorz.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,11 +30,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bloxorz_A_search.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
-    <configuration name="Python Interpretor" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.Bloxorz_A_search">
+    <configuration name="Bloxorz" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ACI Assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,8 +44,8 @@
       <option name="SDK_HOME" value="C:\Users\10699\Desktop\Mtech\ACI\ACI Assignment\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="false" />
-      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bloxorz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -51,6 +55,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Bloxorz_A_search" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ACI Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\10699\Desktop\Mtech\ACI\ACI Assignment\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bloxorz_A_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python Interpretor" type="PythonConfigurationType" factoryName="Python">
+      <module name="ACI Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\10699\Desktop\Mtech\ACI\ACI Assignment\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BloxorzSolver-master/BloxorzSolver-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BloxorzSolver-master/BloxorzSolver-master/ai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python Interpretor" />
+      <item itemvalue="Python.Bloxorz_A_search" />
+      <item itemvalue="Python.Bloxorz" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\10699\AppData\Roaming\Subversion</configuration>
@@ -66,10 +117,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="24" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604937345275">
+    <state x="275" y="9" width="816" height="729" key="#Intentions" timestamp="1606276300637">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="24" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1604937345275" />
+    <state x="275" y="9" width="816" height="729" key="#Intentions/0.0.1366.738@0.0.1366.738" timestamp="1606276300637" />
+    <state x="137" y="24" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606277706846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1606277706846" />
     <state x="438" y="76" key="#xdebugger.evaluate" timestamp="1604993393507">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -82,64 +137,53 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1604994284281" />
-    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1604994304417">
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1606277704729">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604994304417" />
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606277704729" />
     <state x="545" y="262" key="Github.ShareDialog" timestamp="1604993871092">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="545" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1604993871092" />
-    <state width="1345" height="278" key="GridCell.Tab.0.bottom" timestamp="1604993552871">
+    <state width="1345" height="278" key="GridCell.Tab.0.bottom" timestamp="1606283795149">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604993552871" />
-    <state width="1345" height="278" key="GridCell.Tab.0.center" timestamp="1604993552871">
+    <state width="1345" height="278" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606283795149" />
+    <state width="1345" height="278" key="GridCell.Tab.0.center" timestamp="1606283795149">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604993552871" />
-    <state width="1345" height="278" key="GridCell.Tab.0.left" timestamp="1604993552871">
+    <state width="1345" height="278" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606283795149" />
+    <state width="1345" height="278" key="GridCell.Tab.0.left" timestamp="1606283795148">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604993552871" />
-    <state width="1345" height="278" key="GridCell.Tab.0.right" timestamp="1604993552871">
+    <state width="1345" height="278" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606283795148" />
+    <state width="1345" height="278" key="GridCell.Tab.0.right" timestamp="1606283795149">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604993552871" />
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1604993516647">
+    <state width="1345" height="278" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606283795149" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1606283770220">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604993516647" />
-    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1604993516646">
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606283770220" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1606283770219">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1604993516646" />
-    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1604993516646">
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1606283770219" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1606283770219">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1604993516646" />
-    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1604993516647">
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1606283770219" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1606283770219">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1604993516647" />
-    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1604988409367">
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1606283770219" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1606281186711">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1604988409367" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1606281186711" />
     <state x="513" y="160" key="svn.repositoryBrowser" timestamp="1604994210038">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="513" y="160" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1604994210038" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Bloxorz.py</url>
-          <line>78</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
